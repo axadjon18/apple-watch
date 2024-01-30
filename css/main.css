@@ -62,12 +62,12 @@ img {
 
 .container {
   width: 100%;
-  max-width: 1030px;
+  max-width: 1330px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px;
-}
+ }
 
 ol,
 ul {
@@ -187,7 +187,7 @@ hr {
 .hero {
   padding-top: 170px;
   padding-bottom: 183px;
-
+ 
   background-image: url("../assets/images/watches.png");
   background-repeat: no-repeat;
   background-size: 587px;
